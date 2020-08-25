@@ -13,7 +13,7 @@ Hi, welcome to this repo. It's a collection of various usages of python and also
 ## Usage
 
 ```sh
-pip install -r requirements.txt
+pipenv install --dev
 ```
 
 ### **NOTE:**
