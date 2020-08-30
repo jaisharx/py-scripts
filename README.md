@@ -1,8 +1,8 @@
 # py-Scripts
 
-Hi, welcome to this repo. It's a collection of various usages of python and also serves as a personal reference from time to time on various topic.
+Hi, there! Welcome to this repo. It's a collection projects showcasing different usages of Python. It also serves as a personal reference guide.
 
-## File Structure:
+### File Structure:
 - [Scripting]()
     - [apis-consumption]()
     - [image-processing]()
@@ -18,8 +18,7 @@ Hi, welcome to this repo. It's a collection of various usages of python and also
 - [Machine Learning]()
     - [iris-dataset]()
 
-## Usage
-
+### Getting started:
 **Step 1:** Repo is setup with pipenv, therefore if you don't have it already. Run.
 ```sh
 pip install pipenv
