@@ -13,6 +13,7 @@ requests = "*"
 tweepy = "*"
 bs4 = "*"
 flask = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.8"
