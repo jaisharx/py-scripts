@@ -12,6 +12,7 @@ pypdf2 = "*"
 requests = "*"
 tweepy = "*"
 bs4 = "*"
+flask = "*"
 
 [requires]
 python_version = "3.8"
